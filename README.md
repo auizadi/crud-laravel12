@@ -5,9 +5,9 @@
 
 ### Cara menjalankannya
 #### 1. Clone atau download source code
-'''sh
+```sh
 git clone https://github.com/auizadi/crud-laravel12.git
-'''
+```
 #### 2. Masuk ke direktori proyek
 `cd crud-laravel12`
 #### 3. Copy .env
