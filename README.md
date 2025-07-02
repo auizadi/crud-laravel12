@@ -9,16 +9,26 @@
 git clone https://github.com/auizadi/crud-laravel12.git
 ```
 #### 2. Masuk ke direktori proyek
-`cd crud-laravel12`
+```sh
+cd crud-laravel12
+```
 #### 3. Copy .env
-`cp .env.example .env`
+```sh
+cp .env.example .env
+```
 #### 4. Setup database
 #### 5. Generate key
-`php artisan key:generate`
+```sh
+php artisan key:generate
+```
 #### 6. Migrasi database
-`php artisan migrate`
+```sh
+php artisan migrate
+```
 #### 7. Jalankan website
-`php artisan serve` 
+```sh
+php artisan serve
+``` 
 <br>
 <br>
 
